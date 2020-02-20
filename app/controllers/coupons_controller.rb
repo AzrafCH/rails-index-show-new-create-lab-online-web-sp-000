@@ -16,6 +16,4 @@ class CouponsController < ApplicationController
     redirect_to coupons_path(@coupon)
   end
 
-
-
 end
